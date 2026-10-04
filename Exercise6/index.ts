@@ -25,7 +25,7 @@ button.disabled = true;
 echo "# Type-Script-Exercises" >> README.md
 git init
 git add .
-git commit -m "Sumitted"
+git commit -m "Submitted"
 git branch -M main
 git remote add origin https://github.com/updymalikally/Type-Script-Exercises.git
 git push -u origin main
